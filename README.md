@@ -1,5 +1,9 @@
 # Documentation
 
+## About
+
+This is a project that takes in credit/debit card information and transforms it in QR Code format.
+
 ## How To Run
 
 1. Make sure to have python installed on your PC.
