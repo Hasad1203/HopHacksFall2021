@@ -2,7 +2,7 @@
 
 ## About
 
-This is a project that takes in credit/debit card information and transforms it in QR Code format.
+This is a project that takes in credit/debit card information and transforms it in QR Code format that can be used for quick and easy online payments.
 
 ## How To Run
 
