@@ -20,5 +20,5 @@ pip install pyzbar
 pip install pillow
 pip install pypng
 ```
-7. In terminal cd into the *main* directory.
+7. In command prompt **cd** into the *main* directory.
 8. Run `python app.py` to run program!
