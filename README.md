@@ -1,6 +1,6 @@
-# Documentation:
+# Documentation
 
-## How to run:
+## How To Run
 
 1. Make sure to have python installed on your PC.
 2. Install code as ZIP from GitHub repository.
@@ -20,6 +20,5 @@ pip install pyzbar
 pip install pillow
 pip install pypng
 ```
-7. In terminal cd into the main directory
+7. In terminal cd into the *main* directory.
 8. Run `python app.py` to run program!
-
