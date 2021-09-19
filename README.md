@@ -5,7 +5,7 @@
 1. Make sure to have python installed on your PC.
 2. Install code as ZIP from GitHub repository.
 3. Extract program somewhere on your PC.
-4. Using command prompt, head over to the folder HopHacksFall2021-master.
+4. Using command prompt, head over to the folder *HopHacksFall2021-master*.
 5. Run the following commands:
 ```
 py -m venv venv
